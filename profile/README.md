@@ -35,10 +35,6 @@ $ nl get 7F3K-9Q2X-NL
   ✔ located · reassembled · saved to ./report.zip
 ```
 
-**▶ Watch the demo** (recorded with [asciinema](https://asciinema.org)):
-
-[![NodeLink demo](https://asciinema.org/a/REPLACE_WITH_CAST_ID.svg)](https://asciinema.org/a/REPLACE_WITH_CAST_ID)
-
 <!--
 GitHub can't run the asciinema player inline, so the pattern above shows the
 SVG poster and links to the player on asciinema.org. To publish your own demo:
@@ -112,6 +108,8 @@ Built and maintained by **Sandro Soria** ([@Sandro642](https://github.com/Sandro
 <br>
 <sub>⚠️ Anonymity is a technical property of the network, not a legal exemption — you remain responsible for what you transfer.</sub>
 </div>
+
+---
 
 // NodeLink Project
 // Copyright (C) 2026 Sandro Soria
