@@ -14,7 +14,7 @@ Decentralized, anonymous, terminal-only file-transfer infrastructure — written
 [Website](https://nodelinkapp.xyz) ·
 [Network map](https://map.nodelinkapp.xyz) ·
 [Status](https://status.nodelinkapp.xyz) ·
-[Discussions](https://github.com/NodeLink-Project/nodelink/discussions)
+[Discussions](https://github.com/NodeLink-Project/discussions/discussions)
 
 </div>
 
@@ -78,9 +78,9 @@ The transport layer is **QUIC over UDP (HTTP/3)**, chosen for fast connection se
 
 Contributions are very welcome, especially from Rustaceans. Good ways to start:
 
-- Browse issues tagged [`good first issue`](https://github.com/NodeLink-Project/nodelink/labels/good%20first%20issue)
-- Open a thread in [Discussions](https://github.com/NodeLink-Project/nodelink/discussions) for questions, ideas or design feedback
-- Report bugs via [Issues](https://github.com/NodeLink-Project/nodelink/issues)
+- Browse issues tagged [`good first issue`](https://github.com/NodeLink-Project/discussions/labels/good%20first%20issue)
+- Open a thread in [Discussions](https://github.com/NodeLink-Project/discussions/discussions) for questions, ideas or design feedback
+- Report bugs via [Issues](https://github.com/NodeLink-Project/discussions/issues)
 
 Please keep pull requests focused, and open a discussion first for anything large so we can align on direction.
 
